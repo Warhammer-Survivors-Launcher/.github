@@ -1,4 +1,5 @@
-![Uploading photo_5447461662274299336_y.jpg…]()
+<img width="1280" height="720" alt="photo_5447461662274299336_y" src="https://github.com/user-attachments/assets/a7fdfde4-82f7-423e-8ffa-a735e6bb3d62" />
+
 # 🎯 Warhammer Survivors Launcher — The Complete Trainer & Mod Loader Guide
 
 Welcome to **Warhammer Survivors Launcher**, your central hub for the launcher and loader ecosystem of **Warhammer Survivors**. Whether you're using MoggyDay's TrainerHub for 54 live toggles, XMODhub's 14-mod app for one-click unlocks, or the Cheat Engine gold editor for instant currency, this guide puts every working loader and trainer into one clean, easy-to-use reference.
